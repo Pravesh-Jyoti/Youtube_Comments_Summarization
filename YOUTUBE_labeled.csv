@@ -1,0 +1,644 @@
+comment,sentiment,label
+This channel is my guilty pleasure. Can't stop watching!,positive,2
+The host has such a soothing voice. Perfect for this type of video.,positive,2
+"I accidentally clicked on this, but I'm glad I did. Interesting content!",positive,2
+Why is there so much hate in the comments? People need to chill.,negative,0
+I wish I could give this more than one like. It's that good.,positive,2
+"The thumbnail is misleading, but the video is actually entertaining.",negative,0
+This video needs more attention. Sharing it with all my friends!,positive,2
+Too many ads. It's getting annoying. Anyone else feel the same?,negative,0
+The special effects are mind-blowing. Looks like a movie!,positive,2
+This video is hilarious!<br/>I can't stop laughing.,positive,2
+The quality is terrible.<br/>I can barely see anything.,negative,0
+Why is this recommended?<br/>Not interested.,negative,0
+I love how this brightens my day.<br/>Keep it up!,positive,2
+"Why are people arguing?<br/>Relax, it's just a video.",negative,0
+I've never seen a more engaging comment section.<br/>So entertaining!,positive,2
+The dislikes are from jealous creators.<br/>Ignore them!,positive,2
+Why is this not trending?<br/>It deserves more attention!,positive,2
+The host's energy is infectious.<br/>Always puts me in a good mood!,positive,2
+Why are there ads in the middle of the video?<br/>Annoying.,negative,0
+The transitions between scenes are seamless.<br/>Great job!,positive,2
+I'm binge-watching all your videos.<br/>Can't stop!,positive,2
+The humor is not for everyone.<br/>I found it hilarious!,positive,2
+The host is too scripted.<br/>Feels unnatural.,negative,0
+I wish the video was longer.<br/>It ended too soon.,negative,0
+The comments section is a wild ride.<br/>What's happening?,negative,0
+The special effects are overdone.<br/>It's distracting.,negative,0
+I'm watching this for the third time.<br/>Still funny!,positive,2
+Why are people disliking?<br/>This is quality content!,positive,2
+The host's humor is not for everyone.<br/>I enjoyed it!,positive,2
+Why is the host shouting?<br/>Lower the volume!,negative,0
+I've never seen a more loyal fanbase.<br/>Keep it up!,positive,2
+The video lacks substance.<br/>It's just filler content.,negative,0
+Why are there ads in the middle of the video?<br/>Annoying.,negative,0
+I'm watching this for the tenth time.<br/>Still entertaining!,positive,2
+The thumbnail caught my attention.<br/>The content delivered!,positive,2
+Why are people hating?<br/>This is top-tier content!,positive,2
+This video is hilarious!<br/>I can't stop laughing.,positive,2
+The quality is terrible.<br/>I can barely see anything.,negative,0
+Why is this recommended?<br/>Not interested.,negative,0
+I love how this brightens my day.<br/>Keep it up!,positive,2
+"Why are people arguing?<br/>Relax, it's just a video.",negative,0
+I've never seen a more engaging comment section.<br/>So entertaining!,positive,2
+The dislikes are from jealous creators.<br/>Ignore them!,positive,2
+Why is this not trending?<br/>It deserves more attention!,positive,2
+The host's energy is infectious.<br/>Always puts me in a good mood!,positive,2
+Why are there ads in the middle of the video?<br/>Annoying.,negative,0
+The transitions between scenes are seamless.<br/>Great job!,positive,2
+I'm binge-watching all your videos.<br/>Can't stop!,positive,2
+The humor is not for everyone.<br/>I found it hilarious!,positive,2
+The host is too scripted.<br/>Feels unnatural.,negative,0
+I wish the video was longer.<br/>It ended too soon.,negative,0
+The comments section is a wild ride.<br/>What's happening?,negative,0
+The special effects are overdone.<br/>It's distracting.,negative,0
+I'm watching this for the third time.<br/>Still funny!,positive,2
+Why are people disliking?<br/>This is quality content!,positive,2
+The host's humor is not for everyone.<br/>I enjoyed it!,positive,2
+Why is the host shouting?<br/>Lower the volume!,negative,0
+I've never seen a more loyal fanbase.<br/>Keep it up!,positive,2
+The video lacks substance.<br/>It's just filler content.,negative,0
+Why are there ads in the middle of the video?<br/>Annoying.,negative,0
+I'm watching this for the tenth time.<br/>Still entertaining!,positive,2
+The thumbnail caught my attention.<br/>The content delivered!,positive,2
+Why are people hating?<br/>This is top-tier content!,positive,2
+Who else is here after the video went viral? Amazing stuff!,positive,2
+This channel is my guilty pleasure. Can't stop watching!<br/>,positive,2
+The host has such a soothing voice. Perfect for this type of video.<br/>,positive,2
+"I accidentally clicked on this, but I'm glad I did. Interesting content!<br/>",positive,2
+Why is there so much hate in the comments? People need to chill.<br/>,negative,0
+I wish I could give this more than one like. It's that good.<br/>,positive,2
+"The thumbnail is misleading, but the video is actually entertaining.<br/>",negative,0
+This video needs more attention. Sharing it with all my friends!<br/>,positive,2
+Too many ads. It's getting annoying. Anyone else feel the same?<br/>,negative,0
+The special effects are mind-blowing. Looks like a movie!<br/>,positive,2
+Who else is here after the video went viral? Amazing stuff!<br/>,positive,2
+The intro music is too loud. Had to lower my volume.<br/>,negative,0
+The comment section is a war zone. What happened here?<br/>,negative,0
+I've never laughed so hard at a YouTube video. Pure comedy gold!<br/>,positive,2
+This type of content is exactly what I needed. Subscribed!<br/>,positive,2
+Dislike for the clickbait title. Not cool.<br/>,negative,0
+I watch this every night before going to bed. It's my routine now.<br/>,positive,2
+The dislikes are probably from jealous competitors. Keep it up!<br/>,positive,2
+The camera quality is amazing. Feels like I'm there.<br/>,positive,2
+The editing needs improvement. Some parts are confusing.<br/>,negative,0
+I can't believe I wasted my time watching this. Unsubscribed.<br/>,negative,0
+I'm addicted to this channel. Can't get enough!<br/>,positive,2
+Thumbs up if you're watching this during a study break!<br/>,positive,2
+"I appreciate the effort, but the content is not my cup of tea.<br/>",negative,0
+Let's make this the most liked comment on the video!<br/>,positive,2
+"Why is this in my recommended? YouTube algorithm, you're drunk.<br/>",negative,0
+The community here is great. Love reading everyone's thoughts.<br/>,positive,2
+The background music is distracting. Couldn't focus on the topic.<br/>,negative,0
+I've been a subscriber since the beginning. It's been a journey!<br/>,positive,2
+Why so many haters? This is quality content.<br/>,positive,2
+I tried recreating this at home. It was a disaster!<br/>,negative,0
+"I've never commented before, but this was too good to ignore!<br/>",positive,2
+The video is too short. I wanted more!<br/>,negative,0
+"Great video, but the ads are killing me. Too many interruptions.<br/>",negative,0
+The comments are more entertaining than the video itself.<br/>,negative,0
+Your content always brightens my day. Thank you!<br/>,positive,2
+I'm new here. What other videos should I check out from this channel?<br/>,positive,2
+Can't believe this is free content. Worth paying for!<br/>,positive,2
+The transitions between scenes are too abrupt. It's jarring.<br/>,negative,0
+Why are people hating? This video is legit.<br/>,positive,2
+The narrator talks too fast. Hard to keep up.<br/>,negative,0
+"I don't usually comment, but this was too good to ignore!<br/>",positive,2
+The video ended too soon. I wanted more details.<br/>,negative,0
+The dislikes are probably from bots. This deserves better.<br/>,positive,2
+I've seen better. Not impressed.<br/>,negative,0
+The cinematography is impressive. Looks like a professional shoot.<br/>,positive,2
+I'm unsubscribing. The quality of content has gone downhill.<br/>,negative,0
+Why do people keep disliking without watching? Give it a chance!<br/>,positive,2
+This is the best thing I've seen on YouTube all week!<br/>,positive,2
+The lighting in some shots is off. It's distracting.<br/>,negative,0
+I've watched this three times already. Can't get enough!<br/>,positive,2
+Why so many dislikes? I enjoyed every minute of it.<br/>,positive,2
+"I was skeptical at first, but this turned out to be great!<br/>",positive,2
+I've never clicked so fast on a notification. Love your videos!<br/>,positive,2
+The comments section needs a positivity boost. Spread love!<br/>,positive,2
+The content is too repetitive. I expected something new.<br/>,negative,0
+This deserves to be on the trending page. Let's get it there!<br/>,positive,2
+I've never seen anything like this before. Truly unique content.<br/>,positive,2
+The transitions between scenes are smooth. Great editing!<br/>,positive,2
+"I've never commented on a video before, but this deserves praise!<br/>",positive,2
+Why are people disliking without giving a reason? Explain yourself!<br/>,negative,0
+"The thumbnail got me interested, and the video lived up to it!<br/>",positive,2
+I'm using this video for my research project. Thanks for the insights!<br/>,positive,2
+The dislikes are from people who don't appreciate real<br/>,positive,2
+The intro music is too loud. Had to lower my volume.,negative,0
+The comment section is a war zone. What happened here?,negative,0
+I've never laughed so hard at a YouTube video. Pure comedy gold!,positive,2
+This type of content is exactly what I needed. Subscribed!,positive,2
+Dislike for the clickbait title. Not cool.,negative,0
+I watch this every night before going to bed. It's my routine now.,positive,2
+The dislikes are probably from jealous competitors. Keep it up!,positive,2
+The camera quality is amazing. Feels like I'm there.,positive,2
+The editing needs improvement. Some parts are confusing.,negative,0
+I can't believe I wasted my time watching this. Unsubscribed.,negative,0
+I'm addicted to this channel. Can't get enough!,positive,2
+Thumbs up if you're watching this during a study break!,positive,2
+"I appreciate the effort, but the content is not my cup of tea.",negative,0
+Let's make this the most liked comment on the video!,positive,2
+"Why is this in my recommended? YouTube algorithm, you're drunk.",negative,0
+The community here is great. Love reading everyone's thoughts.,positive,2
+The background music is distracting. Couldn't focus on the topic.,negative,0
+I've been a subscriber since the beginning. It's been a journey!,positive,2
+Why so many haters? This is quality content.,positive,2
+I tried recreating this at home. It was a disaster!,negative,0
+"I've never commented before, but I had to for this. Thumbs up!",positive,2
+The video is too short. I wanted more!,negative,0
+"Great video, but the ads are killing me. Too many interruptions.",negative,0
+The comments are more entertaining than the video itself.,negative,0
+Your content always brightens my day. Thank you!,positive,2
+I'm new here. What other videos should I check out from this channel?,positive,2
+Can't believe this is free content. Worth paying for!,positive,2
+The transitions between scenes are too abrupt. It's jarring.,negative,0
+Why are people hating? This video is legit.,positive,2
+The narrator talks too fast. Hard to keep up.,negative,0
+"I don't usually comment, but this was too good to ignore!",positive,2
+The video ended too soon. I wanted more details.,negative,0
+The dislikes are probably from bots. This deserves better.,positive,2
+I've seen better. Not impressed.,negative,0
+The cinematography is impressive. Looks like a professional shoot.,positive,2
+I'm unsubscribing. The quality of content has gone downhill.,negative,0
+Why do people keep disliking without watching? Give it a chance!,positive,2
+This is the best thing I've seen on YouTube all week!,positive,2
+The lighting in some shots is off. It's distracting.,negative,0
+I've watched this three times already. Can't get enough!,positive,2
+Why so many dislikes? I enjoyed every minute of it.,positive,2
+"I was skeptical at first, but this turned out to be great!",positive,2
+I've never clicked so fast on a notification. Love your videos!,positive,2
+The comments section needs a positivity boost. Spread love!,positive,2
+The content is too repetitive. I expected something new.,negative,0
+This deserves to be on the trending page. Let's get it there!,positive,2
+I've never seen anything like this before. Truly unique content.,positive,2
+The jump cuts are too frequent. It's hard to follow.,negative,0
+I wish I could give this a standing ovation. Outstanding work!,positive,2
+The dislikes are from people who envy your success. Ignore them.,positive,2
+Too many ads. It's becoming unbearable.,negative,0
+"The video is good, but the background music is too loud.",negative,0
+I came here from a friend's recommendation. They have great taste!,positive,2
+The camera work is shaky at times. It gave me a headache.,negative,0
+I'm addicted to this series. When is the next episode coming out?,positive,2
+The dislikes are probably from people who didn't understand the humor.,positive,2
+Thumbs up if you're watching this in 4K! The quality is amazing.,positive,2
+The comments are more entertaining than the video itself.,negative,0
+"The content is not for everyone, but I enjoy it. Keep it up!",positive,2
+Who else is binge-watching all the videos in one sitting?,positive,2
+I can't believe this only has a few views. It's a hidden gem!,positive,2
+The transitions between scenes are smooth. Great editing!,positive,2
+"I've never commented on a video before, but this deserves praise!",positive,2
+Why are people disliking without giving a reason? Explain yourself!,negative,0
+"The thumbnail got me interested, and the video lived up to it!",positive,2
+I'm using this video for my research project. Thanks for the insights!,positive,2
+The intro is too long. I almost clicked away.<br/>,negative,0
+I've watched every video on this channel. Can't get enough!<br/>,positive,2
+Why do people keep disliking? This is quality content!<br/>,positive,2
+The camera work is shaky. Hard to focus on the content.<br/>,negative,0
+The host's energy is contagious. Always puts me in a good mood!<br/>,positive,2
+Thumbs up if you're watching in 2023!<br/>,positive,2
+I can't believe I wasted my time on this. Disappointed.<br/>,negative,0
+The editing is top-notch. Love the fast-paced style!<br/>,positive,2
+"I accidentally found this channel, and now I'm hooked.<br/>",positive,2
+The dislikes are from people who don't get the humor.<br/>,positive,2
+The background music is too loud. Lower the volume!<br/>,negative,0
+I subscribed after the first 30 seconds. Keep it up!<br/>,positive,2
+The lighting needs improvement. Some parts are too dark.<br/>,negative,0
+Why are there so many ads? It's ruining the experience.<br/>,negative,0
+The comments are full of negativity. Spread kindness!<br/>,positive,2
+I've never seen a video like this before. Unique concept!<br/>,positive,2
+The video quality is impressive. Feels like 4K!<br/>,positive,2
+Why does this have so many views? Am I missing something?<br/>,negative,0
+The transitions between scenes are seamless. Great job!<br/>,positive,2
+I'm binge-watching all your videos. Can't stop!<br/>,positive,2
+The humor is not for everyone. I found it hilarious!<br/>,positive,2
+Is anyone else here from the recommended section?<br/>,positive,2
+The host is too scripted. Feels unnatural.<br/>,negative,0
+I wish the video was longer. It ended too soon.<br/>,negative,0
+Why is this not trending? It deserves more attention!<br/>,positive,2
+The comments section is a wild ride. What's happening?<br/>,negative,0
+"I've never commented before, but this video is a gem!<br/>",positive,2
+The special effects are overdone. It's distracting.<br/>,negative,0
+The thumbnail is misleading. Clickbait alert!<br/>,negative,0
+I'm watching this for the third time. Still funny!<br/>,positive,2
+Why are people disliking? This is quality content!<br/>,positive,2
+The host's voice is annoying. Couldn't finish the video.<br/>,negative,0
+I'm recommending this to all my friends. Must-watch!<br/>,positive,2
+The content is too predictable. Saw it coming a mile away.<br/>,negative,0
+I love how the host interacts with the audience. Engaging!<br/>,positive,2
+I'm watching this during quarantine. Anyone else?<br/>,positive,2
+The video made me laugh out loud. Thanks for that!<br/>,positive,2
+The background music is too soft. Barely noticeable.<br/>,negative,0
+Why so many dislikes? This is better than most content.<br/>,positive,2
+The host's humor is not for everyone. I enjoyed it!<br/>,positive,2
+Why is the host shouting? Lower the volume!<br/>,negative,0
+I've never seen a more loyal fanbase. Keep it up!<br/>,positive,2
+The video lacks substance. It's just filler content.<br/>,negative,0
+Why are there ads in the middle of the video? Annoying.<br/>,negative,0
+I'm watching this for the tenth time. Still entertaining!<br/>,positive,2
+The thumbnail caught my attention. The content delivered!<br/>,positive,2
+Why are people hating? This is top-tier content!<br/>,positive,2
+The pacing is too slow. I lost interest halfway.<br/>,negative,0
+"I thought this was a clickbait title, but it's legit!<br/>",positive,2
+"I've never commented before, but this video deserves it!<br/>",positive,2
+The dislikes are probably from jealous creators. Ignore them!<br/>,positive,2
+This made my day. Thank you for the laughs!<br/>,positive,2
+The video is too short. Wanted more details.<br/>,negative,0
+I watch this every morning. It sets a positive tone!<br/>,positive,2
+Why are there so many ads? It's distracting.<br/>,negative,0
+The humor is too dark. Not my taste.<br/>,negative,0
+Let's make this the most liked comment!<br/>,positive,2
+The special effects are impressive. Hollywood-level!<br/>,positive,2
+The host's enthusiasm is infectious. Love it!<br/>,positive,2
+I can't believe I only found this now. Subscribed!<br/>,positive,2
+The dislikes are probably from bots. Ignore them!<br/>,positive,2
+Why is this not trending? It's better than most on the list!<br/>,positive,2
+The music choice is perfect. Sets the mood!<br/>,positive,2
+The content is too predictable. Saw it coming.<br/>,negative,0
+"I clicked for the thumbnail, stayed for the content!<br/>",positive,2
+Why are there so many dislikes? This deserves better!<br/>,positive,2
+The video is too long. Lost interest halfway through.<br/>,negative,0
+I've shared this with everyone I know. Must-watch!<br/>,positive,2
+The dislikes are from people with no sense of humor.<br/>,positive,2
+This video changed my perspective. Eye-opening!<br/>,positive,2
+The editing is on point. Smooth transitions!<br/>,positive,2
+Why is this not on the trending page? It should be!<br/>,positive,2
+The dislikes are from competitors. This is gold!<br/>,positive,2
+I've watched this ten times already. Can't get enough!<br/>,positive,2
+Why are there so many dislikes? This is quality content!<br/>,positive,2
+The background music is too loud. Lower the volume!<br/>,negative,0
+The host's energy is contagious. Always puts me in a good mood!<br/>,positive,2
+Thumbs up if you're watching in 2023!<br/>,positive,2
+I can't believe I wasted my time on this. Disappointed.<br/>,negative,0
+The editing is top-notch. Love the fast-paced style!<br/>,positive,2
+"I accidentally found this channel, and now I'm hooked.<br/>",positive,2
+The dislikes are from people who don't get the humor.<br/>,positive,2
+I can't believe I wasted my time on this. Disappointed.<br/>,negative,0
+The editing is top-notch. Love the fast-paced style!<br/>,positive,2
+"I accidentally found this channel, and now I'm hooked.<br/>",positive,2
+The dislikes are from people who don't get the humor.<br/>,positive,2
+The background music is too loud. Lower the volume!<br/>,negative,0
+I subscribed after the first 30 seconds. Keep it up!<br/>,positive,2
+The lighting needs improvement. Some parts are too dark.<br/>,negative,0
+Why are there so many ads? It's ruining the experience.<br/>,negative,0
+The comments are full of negativity. Spread kindness!<br/>,positive,2
+I've never seen a video like this before. Unique concept!<br/>,positive,2
+The video quality is impressive. Feels like 4K!<br/>,positive,2
+Why does this have so many views? Am I missing something?<br/>,negative,0
+The transitions between scenes are seamless. Great job!<br/>,positive,2
+I'm binge-watching all your videos. Can't stop!<br/>,positive,2
+The humor is not for everyone. I found it hilarious!<br/>,positive,2
+Is anyone else here from the recommended section?<br/>,positive,2
+The host is too scripted. Feels unnatural.<br/>,negative,0
+I wish the video was longer. It ended too soon.<br/>,negative,0
+Why is this not trending? It deserves more attention!<br/>,positive,2
+The comments section is a wild ride. What's happening?<br/>,negative,0
+"I've never commented before, but this video is a gem!<br/>",positive,2
+The special effects are overdone. It's distracting.<br/>,negative,0
+The thumbnail is misleading. Clickbait alert!<br/>,negative,0
+I'm watching this for the third time. Still funny!<br/>,positive,2
+Why are people disliking? This is quality content!<br/>,positive,2
+The host's humor is not for everyone. I enjoyed it!<br/>,positive,2
+Why is the host shouting? Lower the volume!<br/>,negative,0
+I've never seen a more loyal fanbase. Keep it up!<br/>,positive,2
+The video lacks substance. It's just filler content.<br/>,negative,0
+Why are there ads in the middle of the video? Annoying.<br/>,negative,0
+I'm watching this for the tenth time. Still entertaining!<br/>,positive,2
+The thumbnail caught my attention. The content delivered!<br/>,positive,2
+Why are people hating? This is top-tier content!<br/>,positive,2
+Couldn't stop laughing! This is comedy gold!<br/>,positive,2
+The video quality is terrible. Can barely see anything.<br/>,negative,0
+Why is this in my recommendations? Not interested.<br/>,negative,0
+The host's voice is soothing. Perfect for ASMR!<br/>,positive,2
+The dislikes are from people who envy the success.<br/>,positive,2
+The camera angles are confusing. Hard to follow.<br/>,negative,0
+The music is too loud. Couldn't focus on the dialogue.<br/>,negative,0
+I love how this video brightens my day. Keep it up!<br/>,positive,2
+The video is too short. Wanted more details.<br/>,negative,0
+The host's humor is not for everyone. I found it hilarious!<br/>,positive,2
+The special effects are mind-blowing. Hollywood-level quality!<br/>,positive,2
+I've never seen a more engaging comment section. So entertaining!<br/>,positive,2
+Why is this not trending? It deserves more attention!<br/>,positive,2
+The background music is too soft. Barely noticeable.<br/>,negative,0
+The editing is on point. Smooth transitions!<br/>,positive,2
+Why are there so many dislikes? This is quality content!<br/>,positive,2
+The host's energy is infectious. Always puts me in a good mood!<br/>,positive,2
+The video is too long. Lost interest halfway through.<br/>,negative,0
+The dislikes are probably from bots. Ignore them!<br/>,positive,2
+The pacing is too slow. I lost interest halfway.<br/>,negative,0
+The music choice is perfect. Sets the mood!<br/>,positive,2
+I'm watching this for the tenth time. Still entertaining!<br/>,positive,2
+Why are there ads in the middle of the video? Annoying.<br/>,negative,0
+The thumbnail caught my attention. The content delivered!<br/>,positive,2
+Why are people hating? This is top-tier content!<br/>,positive,2
+I can't believe I only found this now. Subscribed!<br/>,positive,2
+The dislikes are probably from jealous creators. Ignore them!<br/>,positive,2
+Why is this not on the trending page? It should be!<br/>,positive,2
+I've watched this ten times already. Can't get enough!<br/>,positive,2
+Why are there so many dislikes? This is quality content!<br/>,positive,2
+The background music is too loud. Lower the volume!<br/>,negative,0
+The host's energy is contagious. Always puts me in a good mood!<br/>,positive,2
+Thumbs up if you're watching in 2023!<br/>,positive,2
+I can't believe I wasted my time on this. Disappointed.<br/>,negative,0
+The editing is top-notch. Love the fast-paced style!<br/>,positive,2
+"I accidentally found this channel, and now I'm hooked.<br/>",positive,2
+The dislikes are from people who don't get the humor.<br/>,positive,2
+The background music is too loud. Lower the volume!<br/>,negative,0
+I subscribed after the first 30 seconds. Keep it up!<br/>,positive,2
+The lighting needs improvement. Some parts are too dark.<br/>,negative,0
+Why are there so many ads? It's ruining the experience.<br/>,negative,0
+The comments are full of negativity. Spread kindness!<br/>,positive,2
+I've never seen a video like this before. Unique concept!<br/>,positive,2
+The video quality is impressive. Feels like 4K!<br/>,positive,2
+Why does this have so many views? Am I missing something?<br/>,negative,0
+The transitions between scenes are seamless. Great job!<br/>,positive,2
+I'm binge-watching all your videos. Can't stop!<br/>,positive,2
+The humor is not for everyone. I found it hilarious!<br/>,positive,2
+Is anyone else here from the recommended section?<br/>,positive,2
+The host is too scripted. Feels unnatural.<br/>,negative,0
+I wish the video was longer. It ended too soon.<br/>,negative,0
+Why is this not trending? It deserves more attention!<br/>,positive,2
+The comments section is a wild ride. What's happening?<br/>,negative,0
+"I've never commented before, but this video is a gem!<br/>",positive,2
+The special effects are overdone. It's distracting.<br/>,negative,0
+The thumbnail is misleading. Clickbait alert!<br/>,negative,0
+I'm watching this for the third time. Still funny!<br/>,positive,2
+Why are people disliking? This is quality content!<br/>,positive,2
+The host's humor is not for everyone. I enjoyed it!<br/>,positive,2
+Why is the host shouting? Lower the volume!<br/>,negative,0
+I've never seen a more loyal fanbase. Keep it up!<br/>,positive,2
+The video lacks substance. It's just filler content.<br/>,negative,0
+Why are there ads in the middle of the video? Annoying.<br/>,negative,0
+I'm watching this for the tenth time. Still entertaining!<br/>,positive,2
+The thumbnail caught my attention. The content delivered!<br/>,positive,2
+Why are people hating? This is top-tier content!<br/>,positive,2
+This is amazing!,positive,2
+I don't like it.,negative,0
+So cool!,positive,2
+Not impressed.,negative,0
+I love this!,positive,2
+Boring.,negative,0
+Great job!,positive,2
+Terrible.,negative,0
+I'm a fan!,positive,2
+Disappointing.,negative,0
+Fantastic!,positive,2
+Not my style.,negative,0
+I enjoy this.,positive,2
+Hate it.,negative,0
+Superb!,positive,2
+Awful.,negative,0
+I'm obsessed!,positive,2
+Poor quality.,negative,0
+Thumbs up!,positive,2
+Thumbs down.,negative,0
+I can't stop watching!,positive,2
+Complete waste of time.,negative,0
+Highly recommended!,positive,2
+I regret watching this.,negative,0
+Brilliant!,positive,2
+Not worth it.,negative,0
+I'm addicted!,positive,2
+Unimpressive.,negative,0
+I laughed so much!,positive,2
+So boring.,negative,0
+Captivating!,positive,2
+I fell asleep.,negative,0
+Top-notch!,positive,2
+I expected better.,negative,0
+Incredible!,positive,2
+Very disappointing.,negative,0
+I'm in love!,positive,2
+I'm so over this.,negative,0
+Wonderful!,positive,2
+Not my cup of tea.,negative,0
+Excellent!,positive,2
+Absolutely awful.,negative,0
+I'm hooked!,positive,2
+I don't get the hype.,negative,0
+Outstanding!,positive,2
+I don't recommend it.,negative,0
+Perfect!,positive,2
+Not perfect.,negative,0
+Love it!,positive,2
+I hate this.,negative,0
+I can't get enough!,positive,2
+I wasted my time.,negative,0
+Great stuff!,positive,2
+So underwhelming.,negative,0
+Thumbs up from me!,positive,2
+I'm unimpressed.,negative,0
+Impressive!,positive,2
+I expected more.,negative,0
+Fantastic work!,positive,2
+It's not good.,negative,0
+Bravo!,positive,2
+I'm not impressed.,negative,0
+Super entertaining!,positive,2
+Not entertaining at all.,negative,0
+Very enjoyable!,positive,2
+Not enjoyable.,negative,0
+Amazing effort!,positive,2
+I'm not feeling it.,negative,0
+Thoroughly impressed!,positive,2
+I wouldn't recommend it.,negative,0
+Pure gold!,positive,2
+I didn't like it.,negative,0
+Fantastic job!,positive,2
+I'm not a fan.,negative,0
+Great performance!,positive,2
+I'm not impressed with the performance.,negative,0
+Absolutely love it!,positive,2
+I absolutely dislike it.,negative,0
+Stunning!,positive,2
+It's not stunning.,negative,0
+Very funny!,positive,2
+Not funny at all.,negative,0
+I adore this!,positive,2
+I strongly dislike this.,negative,0
+Beautiful!,positive,2
+Far from beautiful.,negative,0
+Very creative!,positive,2
+Not creative.,negative,0
+This video is amazing.,positive,2
+I don't like it.,negative,0
+Great job on this content.,positive,2
+Such a waste of time.,negative,0
+I enjoyed watching this.,positive,2
+This is boring.,negative,0
+Thumbs up for this!,positive,2
+Not worth my time.,negative,0
+I subscribed to your channel.,positive,2
+I'm unsubscribing.,negative,0
+Best video I've seen.,positive,2
+I don't see the appeal.,negative,0
+This is so entertaining.,positive,2
+I've seen better.,negative,0
+Hilarious content.,positive,2
+Not funny at all.,negative,0
+I learned a lot from this.,positive,2
+Just a waste of time.,negative,0
+Sharing with my friends!,positive,2
+I wouldn't recommend this.,negative,0
+So much fun!,positive,2
+I can't believe I wasted time on this.,negative,0
+Thumbs up if you're still watching.,positive,2
+I can't believe people like this.,negative,0
+Fantastic job on this video!,positive,2
+This is terrible.,negative,0
+Super informative.,positive,2
+I regret clicking on this.,negative,0
+I'm obsessed with this channel!,positive,2
+I don't get the hype around this.,negative,0
+I can't get enough of this content.,positive,2
+Not my cup of tea.,negative,0
+Absolutely amazing!,positive,2
+I don't like it at all.,negative,0
+I'm hooked on this series!,positive,2
+I expected more from the storyline.,negative,0
+Incredible production!,positive,2
+I won't be watching this again.,negative,0
+I love this song!,positive,2
+I can't stand the music in this video.,negative,0
+Top-notch quality!,positive,2
+Quality is seriously lacking.,negative,0
+I can't stop laughing!,positive,2
+This isn't funny at all.,negative,0
+I can't wait for the next episode!,positive,2
+This series is not worth the anticipation.,negative,0
+This is my favorite video!,positive,2
+I didn't enjoy it.,negative,0
+Amazing content!,positive,2
+I'm disappointed.,negative,0
+I love the way you explained things.,positive,2
+So confusing and not helpful.,negative,0
+Subscribed for more!,positive,2
+I won't be subscribing.,negative,0
+Great tutorial!,positive,2
+This is a waste of time.,negative,0
+Your videos are always helpful.,positive,2
+I regret clicking on this video.,negative,0
+Thumbs up for the great work!,positive,2
+This is so boring.,negative,0
+I appreciate the effort you put into this.,positive,2
+I expected more from this channel.,negative,0
+Can't stop watching this!,positive,2
+I can't believe people actually like this.,negative,0
+Interesting topic!,positive,2
+I don't find this interesting at all.,negative,0
+Shared with my friends.,positive,2
+I wouldn't recommend this to anyone.,negative,0
+So entertaining!,positive,2
+This is a complete letdown.,negative,0
+Keep up the good work!,positive,2
+I don't see the appeal of your content.,negative,0
+I learned something new from this.,positive,2
+I feel like I wasted my time.,negative,0
+Love your content!,positive,2
+This is so overrated.,negative,0
+Very informative video.,positive,2
+I don't understand the hype.,negative,0
+Addicted to your channel!,positive,2
+I don't get why people watch this.,negative,0
+Awesome video!,positive,2
+This is awful.,negative,0
+Can't wait for the next upload!,positive,2
+I won't be coming back for more.,negative,0
+Fantastic job!,positive,2
+I expected better quality.,negative,0
+So funny!,positive,2
+This isn't funny at all.,negative,0
+I look forward to your next video!,positive,2
+I won't be tuning in again.,negative,0
+this content is so bad.Maybe change it lol.,negative,0
+I don't like this at all. you are so boring.,negative,0
+one of the best youtubers i have seen.,positive,2
+this video is so bad,negative,0
+can he do somthing new ?,negative,0
+this guy can't be funny lmao,negative,0
+please quit this is embarassing,negative,0
+Love this video! So informative and well-presented.,positive,2
+This content is amazing. Keep up the good work!,positive,2
+"Honestly, I can't stand this channel. Always boring content.",negative,0
+I've learned so much from your videos. Thank you!,positive,2
+The worst video ever. Waste of time.,negative,0
+Such a great analysis! Your insights are valuable.,positive,2
+I can't believe people watch this garbage.,negative,0
+Your videos make my day. Always entertaining!,positive,2
+"I've never disliked a video before, but this deserves it.",negative,0
+Fantastic job on this video. Thumbs up!,positive,2
+This is the worst channel on YouTube. Unsubscribed.,negative,0
+I look forward to every upload. Keep it coming!,positive,2
+This is clickbait. Disappointed in the misleading title.,negative,0
+Amazing content as usual. You deserve more subscribers.,positive,2
+I can't stop laughing. Your sense of humor is unmatched.,positive,2
+This channel is so overrated. No quality content.,negative,0
+Great content. Very insightful and well-researched.,positive,2
+Your videos are a joke. Zero credibility.,negative,0
+Thanks for sharing this valuable information. Subscribed!,positive,2
+I don't know why people like this. It's so boring.,negative,0
+Your videos changed my perspective. Thank you!,positive,2
+This is just another clickbait video. Dislike.,negative,0
+I can't get enough of your content. It's addictive!,positive,2
+I can't believe I wasted my time watching this. Terrible.,negative,0
+Fantastic video! Your channel deserves more recognition.,positive,2
+Your videos are so cringeworthy. Can't watch anymore.,negative,0
+"I've never commented before, but this video is a masterpiece!",positive,2
+I expected better from this channel. Disappointed.,negative,0
+Keep it up! Your videos are top-notch.,positive,2
+This is pure garbage. Unsubscribed.,negative,0
+I appreciate the effort you put into your videos. Great job!,positive,2
+I can't stand the host. Annoying and uninteresting.,negative,0
+Your videos are the highlight of my day. Thank you!,positive,2
+I don't get the hype around this channel. Overrated.,negative,0
+Your analysis is on point. Very well done!,positive,2
+This video is so dull. Why do people watch this?,negative,0
+Your content is absolute trash. Unsubscribed.,negative,0
+I love your channel! Informative and entertaining.,positive,2
+This video lacks substance. Thumbs down.,negative,0
+Your content is refreshing and informative. Subscribed!,positive,2
+Unbelievable how bad this channel is. Avoid at all costs.,negative,0
+This channel is incredible. Every video is a masterpiece!,positive,2
+Couldn't even finish watching this. Terrible content.,negative,0
+Your videos are so helpful. I've learned a lot.,positive,2
+I don't understand why people dislike this. It's great!,positive,2
+Absolutely awful. Can't believe I wasted time on this.,negative,0
+Your content is so inspiring. Keep up the good work!,positive,2
+I've never seen worse videos. Complete waste of time.,negative,0
+Thumbs up for another fantastic video! Love your content.,positive,2
+"I used to enjoy this channel, but it's gone downhill.",negative,0
+Your channel deserves way more subscribers. Quality content!,positive,2
+I don't know why anyone would subscribe. Boring videos.,negative,0
+Amazing analysis. You really know your stuff!,positive,2
+This is the worst channel on YouTube. Zero substance.,negative,0
+I appreciate the effort you put into your videos. Great job!,positive,2
+Can't stop laughing at your videos. Hilarious!,positive,2
+Disappointing video. Expected better from this channel.,negative,0
+Your videos are so interesting and informative. Subscribed!,positive,2
+I don't get the hate. Your content is excellent.,positive,2
+This channel is a joke. Unsubscribed.,negative,0
+Your videos always brighten my day. Thank you!,positive,2
+I don't know how anyone enjoys this. Boring and pointless.,negative,0
+Your insights are always on point. Love your channel!,positive,2
+Thumbs down. This video is a letdown.,negative,0
+Your content is so addictive. Can't get enough!,positive,2
+I expected more from this channel. Disappointed.,negative,0
+Your videos are a breath of fresh air. Keep it up!,positive,2
+This is just another clickbait video. Not impressed.,negative,0
+"I've never commented before, but this video is amazing!",positive,2
+This channel used to be good. Now it's just bad content.,negative,0
+Great video! Your channel deserves more recognition.,positive,2
+This video is so cringe. Unwatchable.,negative,0
+Your content changed my perspective. Thank you!,positive,2
+This channel is overrated. Nothing special.,negative,0
+Your analysis is always thorough and insightful. Well done!,positive,2
+This video is a waste of time. Disliked.,negative,0
+I can't wait for your next upload. Love your content!,positive,2
+This is garbage. Why is this even on YouTube?,negative,0
+Your videos are top-notch. Keep them coming!,positive,2
+I don't know why I keep watching. It's so bad.,negative,0
+Your content is top-quality. Subscribed!,positive,2
+Dislike. This channel is a disappointment.,negative,0
+Your videos are so dull. No substance.,negative,0
+kys,negative,0
